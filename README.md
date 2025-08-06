@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Laura Fernández Galindo</h1>
-- 🔭 I’m currently working on [Generating audio from images](https://github.com/Laurafdez/Generator-of-audio-from-images)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Laurafdez](https://github.com/Laurafdez)
 
